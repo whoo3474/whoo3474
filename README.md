@@ -6,15 +6,23 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=whoo3474&show_icons=true&hide_border=False)](https://minhan2.tistory.com)
 
 
+
 ✨ My Certificate
 
 <div>
-<a herf="www.naver.com" target="_blank">
-<img src="https://tistory1.daumcdn.net/tistory/2920456/skin/images/hashicorp-certified-terraform-associate.png" width="200" height="200"/>
+<a herf="www.naver.com" target="_blank" rel="noopener noreferrer nofollow">
+<img src="https://tistory1.daumcdn.net/tistory/2920456/skin/images/hashicorp-certified-terraform-associate.png" width="160" height="160"/>
 </a>
-<img src="https://tistory1.daumcdn.net/tistory/2920456/skin/images/aws-certified-solutions-architect-associate.png" width="200" height="200"/>
-<img src="https://tistory1.daumcdn.net/tistory/2920456/skin/images/cka-certified-kubernetes-administrator.png" width="200" height="200"/>
+<img src="https://tistory1.daumcdn.net/tistory/2920456/skin/images/aws-certified-solutions-architect-associate.png" width="160" height="160"/>
+<img src="https://tistory1.daumcdn.net/tistory/2920456/skin/images/cka-certified-kubernetes-administrator.png" width="160" height="160"/>
 <div/>
+
+
+- [HashiCorp Certified: Terraform Associate (002)](https://www.credly.com/badges/f7a6c791-502c-47ec-a33b-bb45c75b6dc6/public_url)
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/5e5b409a-fb97-4f97-b7fe-b19c659a54ee/public_url)
+- [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/ca5ed398-930a-4a7b-8cb7-9189e911c77b/public_url)
+
+
 
 🤩 Latest Blog Post
 
