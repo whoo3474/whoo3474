@@ -25,10 +25,13 @@ markdown_text = """### Hi there 👋
 
 ✨ My Certificate
 
+<div>
+<a herf="www.naver.com" target="_blank">
 <img src="https://tistory1.daumcdn.net/tistory/2920456/skin/images/hashicorp-certified-terraform-associate.png" width="200" height="200"/>
+</a>
 <img src="https://tistory1.daumcdn.net/tistory/2920456/skin/images/aws-certified-solutions-architect-associate.png" width="200" height="200"/>
 <img src="https://tistory1.daumcdn.net/tistory/2920456/skin/images/cka-certified-kubernetes-administrator.png" width="200" height="200"/>
-
+<div/>
 
 🤩 Latest Blog Post
 
