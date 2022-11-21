@@ -1,18 +1,16 @@
 ### Hi there 👋
-📬  Contact Email : minhan_a@naver.com
+📧  ***Contact Email*** : minhan_a@naver.com
 
-👨🏻‍💻  Tech & Daily Blog : https://minhan2.tistory.com
+👨🏻‍💻  ***Tech & Daily Blog*** : https://minhan2.tistory.com
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=whoo3474&show_icons=true&hide_border=False)](https://minhan2.tistory.com)
 
 
 
-✨ My Certificate
+✨ ***My Certificate***
 
 <div>
-<a herf="www.naver.com" target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://tistory1.daumcdn.net/tistory/2920456/skin/images/hashicorp-certified-terraform-associate.png" width="140" height="140"/>
-</a>
 <img src="https://tistory1.daumcdn.net/tistory/2920456/skin/images/aws-certified-solutions-architect-associate.png" width="140" height="140"/>
 <img src="https://tistory1.daumcdn.net/tistory/2920456/skin/images/cka-certified-kubernetes-administrator.png" width="150" height="150"/>
 <div/>
@@ -24,7 +22,7 @@
 
 
 
-🤩 Latest Blog Post
+🖋 ***Latest Blog Post***
 
 [2022/11/21 - Terraform을 또 문서화 해보자. (feat. terraform-docs)](https://minhan2.tistory.com/entry/Terraform%EC%9D%84-%EB%98%90-%EB%AC%B8%EC%84%9C%ED%99%94-%ED%95%B4%EB%B3%B4%EC%9E%90-feat-terraform-docs) <br>
 [2022/10/26 - Terraform 과 EKS 를 그림으로 간단하게 설명해보자(비전공자 가능)](https://minhan2.tistory.com/entry/Terraform-%EA%B3%BC-EKS-%EB%A5%BC-%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%84%A4%EB%AA%85%ED%95%B4%EB%B3%B4%EC%9E%90%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90-%EA%B0%80%EB%8A%A5) <br>
