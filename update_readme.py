@@ -16,15 +16,15 @@ for idx, feed in enumerate(rss_feed['entries']):
     latest_blog_post_list += f"[{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"
     
 markdown_text = """### Hi there 👋
-📬  Contact Email : minhan_a@naver.com
+📧  ***Contact Email*** : minhan_a@naver.com
 
-👨🏻‍💻  Tech & Daily Blog : https://minhan2.tistory.com
+👨🏻‍💻  ***Tech & Daily Blog*** : https://minhan2.tistory.com
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=whoo3474&show_icons=true&hide_border=False)](https://minhan2.tistory.com)
 
 
 
-✨ My Certificate
+✨ ***My Certificate***
 
 <div>
 <img src="https://tistory1.daumcdn.net/tistory/2920456/skin/images/hashicorp-certified-terraform-associate.png" width="140" height="140"/>
@@ -39,7 +39,7 @@ markdown_text = """### Hi there 👋
 
 
 
-🤩 Latest Blog Post
+🖋 ***Latest Blog Post***
 
 """
 
