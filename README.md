@@ -11,10 +11,10 @@
 
 <div>
 <a herf="www.naver.com" target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://tistory1.daumcdn.net/tistory/2920456/skin/images/hashicorp-certified-terraform-associate.png" width="160" height="160"/>
+<img src="https://tistory1.daumcdn.net/tistory/2920456/skin/images/hashicorp-certified-terraform-associate.png" width="140" height="140"/>
 </a>
-<img src="https://tistory1.daumcdn.net/tistory/2920456/skin/images/aws-certified-solutions-architect-associate.png" width="160" height="160"/>
-<img src="https://tistory1.daumcdn.net/tistory/2920456/skin/images/cka-certified-kubernetes-administrator.png" width="160" height="160"/>
+<img src="https://tistory1.daumcdn.net/tistory/2920456/skin/images/aws-certified-solutions-architect-associate.png" width="140" height="140"/>
+<img src="https://tistory1.daumcdn.net/tistory/2920456/skin/images/cka-certified-kubernetes-administrator.png" width="150" height="150"/>
 <div/>
 
 
