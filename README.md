@@ -24,6 +24,9 @@
 
 🖋 ***Latest Blog Post***
 
+[2023/2/16 - linux 셸 스크립트 프로그래밍 응용](https://minhan2.tistory.com/entry/linux-%EC%85%B8-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9D%91%EC%9A%A9) <br>
+[2023/2/16 - linux 셸 스크립트 프로그래밍 심화](https://minhan2.tistory.com/entry/linux-%EC%85%B8-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%8B%AC%ED%99%94) <br>
+[2023/2/16 - linux 셸 스크립트 프로그래밍 기초](https://minhan2.tistory.com/entry/linux-%EC%85%B8-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8C%85-%EA%B8%B0%EC%B4%88) <br>
 [2022/12/28 - Private Docker Registry - Harbor 이미지 관리하기(기간마다 자동 이미지 삭제)](https://minhan2.tistory.com/entry/Private-Docker-Registry-Harbor-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0%EA%B8%B0%EA%B0%84%EB%A7%88%EB%8B%A4-%EC%9E%90%EB%8F%99-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%82%AD%EC%A0%9C) <br>
 [2022/12/14 - Github Actions의 Cache를 삭제해보자.](https://minhan2.tistory.com/entry/Github-Actions%EC%9D%98-Cache%EB%A5%BC-%EC%82%AD%EC%A0%9C%ED%95%B4%EB%B3%B4%EC%9E%90) <br>
 [2022/11/21 - Terraform-docs 문서화 해보기](https://minhan2.tistory.com/entry/Terraform%EC%9D%84-%EB%98%90-%EB%AC%B8%EC%84%9C%ED%99%94-%ED%95%B4%EB%B3%B4%EC%9E%90-feat-terraform-docs) <br>
@@ -31,6 +34,3 @@
 [2022/10/5 - Terraformer - terraform provider 에러 처리하기](https://minhan2.tistory.com/entry/terraformer-terraform-provider-%EC%97%90%EB%9F%AC-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0) <br>
 [2022/10/5 - Terraform refresh 동작 순서 (feat. terraform apply, terraform plan)](https://minhan2.tistory.com/entry/Terraform-refresh-%EB%8F%99%EC%9E%91-%EC%88%9C%EC%84%9C-feat-terraform-apply-terraform-plan) <br>
 [2022/9/29 - Terragrunt Quick start 요약](https://minhan2.tistory.com/entry/Terragrunt-Quick-start-%EC%9A%94%EC%95%BD) <br>
-[2022/9/28 - Terraform import를 간편하게 사용하자.(feat. terraformer)](https://minhan2.tistory.com/entry/Terraform-import%EB%A5%BC-%EA%B0%84%ED%8E%B8%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90feat-terraformer) <br>
-[2022/8/31 - 나의 인프라 구조(다이어그램)를 이쁘게 만들어 보자(peat. diagrams)](https://minhan2.tistory.com/entry/%EB%82%98%EC%9D%98-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%A1%B0%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8%EB%A5%BC-%EC%9D%B4%EC%81%98%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%B3%B4%EC%9E%90peat-diagrams) <br>
-[2022/8/26 - docker build시, Dockerfile에서 RUN 명령어가 원하는데로 작동하지 않을때](https://minhan2.tistory.com/entry/docker-build%EC%8B%9C-Dockerfile%EC%97%90%EC%84%9C-RUN-%EB%AA%85%EB%A0%B9%EC%96%B4%EA%B0%80-%EC%9B%90%ED%95%98%EB%8A%94%EB%8D%B0%EB%A1%9C-%EC%9E%91%EB%8F%99%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%84%EB%95%8C) <br>
