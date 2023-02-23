@@ -24,6 +24,7 @@
 
 🖋 ***Latest Blog Post***
 
+[2023/2/22 - NextJS S3 Cloudfront 정적배포 html 확장자 지우기](https://minhan2.tistory.com/entry/NextJS-S3-Cloudfront-%EC%A0%95%EC%A0%81%EB%B0%B0%ED%8F%AC-html-%ED%99%95%EC%9E%A5%EC%9E%90-%EC%A7%80%EC%9A%B0%EA%B8%B0) <br>
 [2023/2/16 - linux 셸 스크립트 프로그래밍 응용](https://minhan2.tistory.com/entry/linux-%EC%85%B8-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9D%91%EC%9A%A9) <br>
 [2023/2/16 - linux 셸 스크립트 프로그래밍 심화](https://minhan2.tistory.com/entry/linux-%EC%85%B8-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%8B%AC%ED%99%94) <br>
 [2023/2/16 - linux 셸 스크립트 프로그래밍 기초](https://minhan2.tistory.com/entry/linux-%EC%85%B8-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8C%85-%EA%B8%B0%EC%B4%88) <br>
@@ -33,4 +34,3 @@
 [2022/10/26 - Terraform 과 EKS 를 그림으로 간단하게 설명해보자(비전공자 가능)](https://minhan2.tistory.com/entry/Terraform-%EA%B3%BC-EKS-%EB%A5%BC-%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%84%A4%EB%AA%85%ED%95%B4%EB%B3%B4%EC%9E%90%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90-%EA%B0%80%EB%8A%A5) <br>
 [2022/10/5 - Terraformer - terraform provider 에러 처리하기](https://minhan2.tistory.com/entry/terraformer-terraform-provider-%EC%97%90%EB%9F%AC-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0) <br>
 [2022/10/5 - Terraform refresh 동작 순서 (feat. terraform apply, terraform plan)](https://minhan2.tistory.com/entry/Terraform-refresh-%EB%8F%99%EC%9E%91-%EC%88%9C%EC%84%9C-feat-terraform-apply-terraform-plan) <br>
-[2022/9/29 - Terragrunt Quick start 요약](https://minhan2.tistory.com/entry/Terragrunt-Quick-start-%EC%9A%94%EC%95%BD) <br>
